@@ -1,0 +1,44 @@
+
+#container { 
+    max-width: 960px; margin:0 auto; background-color: white;
+
+}
+#left {
+    float: left;  width: 20%; background-color:white;
+}
+
+#main{
+    float: right; width: 80%; background-color: white;
+}
+
+footer{
+    clear:both; background-color: white;
+}
+.centertext {
+    text-align: center;
+       }
+h1 {
+       color: blue;
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+      
+      /* Paragraphs */
+p  {
+        color: #555;
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+        text-indent: 50px;
+    }  
+.tsmenu td {
+        padding: 10px;
+        background-color:yellow;
+        border: 3px solid red;
+        border-radius:20px;
+        text-align: center; 
+    } 
+    
+
+
